@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+
+
+body {
+  background: #333;
+  font-family: sans-serif;
+  font-size: 1em;
+  text-align: center;
+}
+
+.btn {
+  font-weight: bolder;
+}
+
+
+/* .container .card{
+  width: 50%;
+  margin: 10% auto;
+  background: #eee;
+  padding: 50px;
+  border-radius: 5px;
+  /* text-align: center; */
+}
+/* 
+.card form .input-group {
+  position: relative;
+  display: block;
+  margin: 0.5em 0
+}
+.card form .input-group span {
+  background: #ccc;
+  padding: 10px;
+  position: absolute;
+}
+
+.card form .input-group input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+}
+
+.card form .input-group input[type="text"], input[type="number"] {
+  padding-left: 3em;
+}  */
